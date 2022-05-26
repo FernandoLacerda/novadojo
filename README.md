@@ -28,7 +28,7 @@
   - Cada sala (se houver mais de uma) terá um sensei que organizará os turnos e a oderm das pessoas que vão participar
   - O tempo de caada turno será estipulado no início do Dojo e vai depender da quantidade de participantes
 
-## :link: Link úteis:
+## :link: Links úteis:
 
   - Site oficial do Rust: https://www.rust-lang.org/pt-BR
   - The Rust Programming Language handbook: https://doc.rust-lang.org/book/
